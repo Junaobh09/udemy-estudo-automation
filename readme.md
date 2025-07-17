@@ -7,5 +7,6 @@ Seja bem vindo ao repositorio de estudo de DeVOPS, ! Apenas um exemplo!
 - GitHub
 - Markdown
 
-#### Estrtura do Projedo:
+#### Estrtura do Projeto:
 
+### Adicionando conteudo remotamente
